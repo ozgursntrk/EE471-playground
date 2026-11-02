@@ -60,5 +60,3 @@ def pleaseConformOnepass(caps):
                 print('People in positions', i, end='')
             else:
                 print(' through', i - 1, 'flip your caps!')
-
-# Reviewed by the tech lead
